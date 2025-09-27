@@ -17,5 +17,6 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
 
 # Criando uma Instância de banco de dados
 - Primeiro contato com a criação de instância de banco de dados no azure
-  -> Não é necessário criar uma vm anteriormente, mas é necessário dar um nome ao "server" da instância
-  -> As opções de acesso ao banco são selecionadas no momento da criação (apenas entra id (antigo active directory), apenas usuário SQL ou ambos)
+Importante:
+- Não é necessário criar uma vm anteriormente, mas é necessário dar um nome ao "server" da instância
+- As opções de acesso ao banco são selecionadas no momento da criação (apenas entra id (antigo active directory), apenas usuário SQL ou ambos)
