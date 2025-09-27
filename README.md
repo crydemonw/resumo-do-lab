@@ -27,3 +27,11 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
 - Criando um grupo de recursos
 - Associando recursos criados ao grupo
 - Verificando informações do log
+
+# Área virtual
+- Pessoal: indicado para usuários que tem um perfil de utilização único (ex.: utilizando um software licenciado)
+- Em pool: vários usuário acessam sessões diferentes de um mesmo recurso.
+
+# Functions
+- Primeiro contato com a criação de funcions
+- Utilizado principalmente quando se é necessário de um recurso a partir de um evento (ou gatilho)
