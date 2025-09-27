@@ -22,3 +22,8 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
 
 - Não é necessário criar uma vm anteriormente, mas é necessário dar um nome ao "server" da instância
 - As opções de acesso ao banco são selecionadas no momento da criação (apenas entra id (antigo active directory), apenas usuário SQL ou ambos)
+
+# Grupo de Recursos
+- Criando um grupo de recursos
+- Associando recursos criados ao grupo
+- Verificando informações do log
