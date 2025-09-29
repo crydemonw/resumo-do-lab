@@ -35,3 +35,30 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
 # Functions
 - Primeiro contato com a criação de funcions
 - Utilizado principalmente quando se é necessário de um recurso a partir de um evento (ou gatilho)
+
+# Armazenamento Azure
+- Criar conta de armazenamento
+* Importante: Nome da conta deve ter de 3 a 24 caracteres (apenas letras minúsculas e números) únicos globalmente
+
+* Tipos de Armazenamento
+- Blob: qualquer tipo de arquivo não estruturado
+- Files: Pastas/unidades para mapeamento
+- Discos do Azure: Discos virtuais
+- Filas: Mensagens de até 64kb
+- Tabelas: Dados estruturados
+
+* Tipos de replicação
+- LRS: Replicação local
+- ZRS: Replicação por zona
+- GRS: Replicação geográfica
+- ZGRS: Replicação por zona geográfica
+
+* Migração para o Azure
+- Import/Export Job: Dados > 1TB em diante
+- Data Box Disk: Até 35TB
+- Data Box: Até 80TB
+- Data Box Heavy: Até 800TB
+
+* Ferramentas 
+- AzCopy: Via prompt de comando (Tráfego unilateral) - Win, Mac e linux
+- Gerenciador de arquivos: Mesmo do AzCopy, mas com interface gráfica - Win, mac e Linux
