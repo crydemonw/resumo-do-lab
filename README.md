@@ -62,3 +62,12 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
 * Ferramentas 
 - AzCopy: Via prompt de comando (Tráfego unilateral) - Win, Mac e linux
 - Gerenciador de arquivos: Mesmo do AzCopy, mas com interface gráfica - Win, mac e Linux
+
+# Controle de acesso e segurança
+- Microsoft Entra ID (Antigo Active Directory)
+- Entra Connect: Sync de usuários on Promisses ao Entra ID no Azure
+- - Usuários criados no Azure não são sync no on-Premises
+  - Após sync apenas senhas são atualizadas no on-premises
+    
+- RBAC: roles por camadas
+- Mic Defender
