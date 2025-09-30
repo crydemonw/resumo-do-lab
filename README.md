@@ -79,3 +79,19 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
 - - Não é obrigatório por padrão para criação de recursos
   - Não é herdável
   - É possível criar policies para copiar tags do recurso pai ao filho ou obrigar a inserção na criação
+ 
+# Portal de confiança do Serviço (servicetrust)
+- portal da MS que apresenta um overview/ detalhes de padrões/certificações/regulamentos seguidos em todos os serviços da azure
+
+# Políticas
+- A políticas são soberanas sobre o nível da conta
+
+# Bloqueio de Recursos
+- Read only: congela o status do recurso/grupo
+- Delete: impede a exclusão do recurso/grupo
+
+Importante: o bloqueio é herdado pelo recurso filho
+Ao mover um recurso de um grupo e o bloqueio for a nível de grupo, o bloqueio não é mantido
+
+# MS Purview
+- Portal para analise de governança e conformidade de dados  
