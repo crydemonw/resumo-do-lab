@@ -71,3 +71,11 @@ Em resumo, até o momento no desenvolvimento do lab foi apresentado e reproduzid
     
 - RBAC: roles por camadas
 - Mic Defender
+
+# Custos
+- TCO: Utilizado para calcular e comparar possíveis custos de um ambiente local e o mesmo no Azure
+- Calculadora Azure: oferece estimativas de custos em recursos Azure
+- tags: boas práticas e melhor organização na fatura
+- - Não é obrigatório por padrão para criação de recursos
+  - Não é herdável
+  - É possível criar policies para copiar tags do recurso pai ao filho ou obrigar a inserção na criação
