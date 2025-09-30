@@ -106,3 +106,9 @@ Para operações em lote, templates podem ser utilizados, tais instruções ser�
 - Bicep: linguagem amigável para gerenciamento via comandos em contrapartida ao JSON
 
 - ARC: Ferramenta de gerenimento multicloud
+
+# Ferramentas de Monitoramento do Azure
+- Azure Monitor: Apresenta dados relevantes aos recursos
+- Azure Service Health: Apresenta dados sobre o status de serviço dos produtos MS 
+- Advisor: Dentro do Azure Monitor ele apresenta recomendações pertinentes aos recursos utilizados.
+
