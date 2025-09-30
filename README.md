@@ -94,4 +94,15 @@ Importante: o bloqueio é herdado pelo recurso filho
 Ao mover um recurso de um grupo e o bloqueio for a nível de grupo, o bloqueio não é mantido
 
 # MS Purview
-- Portal para analise de governança e conformidade de dados  
+- Portal para analise de governança e conformidade de dados
+
+# Gerenciamento de recursos
+Para operações em lote, templates podem ser utilizados, tais instruções serão executadas por: 
+- Cloud Shell: PowerShell que conecta ao Azure para execução de instruções
+- Azure CLI: mesma coisa do Cloud Shell, mas baseado em bash
+
+- ARM: Camada de interface que interpreta comandos do portal ou de instruções
+
+- Bicep: linguagem amigável para gerenciamento via comandos em contrapartida ao JSON
+
+- ARC: Ferramenta de gerenimento multicloud
